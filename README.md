@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="UTF-8">
-<title>Special Memory ❤️</title>
+<title>hello</title>
 
 <style>
 body {
@@ -50,16 +50,14 @@ p {
 
 <body>
 
-<h1>💖 A Special Memory Just for You 💖</h1>
+<h1>hello</h1>
 
 <div class="container">
     <img src="1.jpg" alt="Memory Image">
 </div>
 
 <p>
-Your father’s love will always stay with you.  
-Even though he is not physically here, his blessings, guidance, and memories will always protect you.  
-Stay strong, keep smiling, and remember — he is always watching over you with love ❤️
+hi
 </p>
 
 <div class="footer">
