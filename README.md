@@ -61,7 +61,7 @@ hi
 </p>
 
 <div class="footer">
-    “Some memories never fade… they live forever in our hearts.” 💕
+   hiii
 </div>
 
 </body>
